@@ -1,0 +1,16 @@
+# Jump Cloud Deployment Scripts
+
+# Author:		Ryan Sherry
+# Date Created:		7/6/2017
+# Company:		Reverus
+--WARNING
+
+FILES WILL REQUIRE  TWO UNIQUE KEYS THAT ALOW FULL ACCESS TO JUMPCLOUD THROUGH THE BACK END.
+
+DO NOT SHARE YOUR PRODUCTION FILES OUTSIDE OF YOUR COMPANY OR POST TO FORUM
+
+Doing so would be esentially alowing full admin access to all machines. 
+
+==
+
+  
