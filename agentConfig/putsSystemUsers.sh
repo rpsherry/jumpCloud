@@ -5,7 +5,7 @@
 # Company:		Reverus
 # Client:		Green Chef
 
-# Purpose: Put Reverus and _adminRMS on all systems managed by jump cloud
+# Purpose: Put admin on all systems managed by jump cloud
 
 readApiKey() {
 
